@@ -1,2 +1,2 @@
-# HolisticAuraiee
-this project was made under wiehack
+# HolisticAura
+this project was made under the influential topic of mental health 
